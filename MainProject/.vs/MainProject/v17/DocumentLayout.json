@@ -3,24 +3,92 @@
   "WorkspaceRootPath": "F:\\C#\\GraduationProject\\MainProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|f:\\c#\\graduationproject\\mainproject\\mainproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|f:\\c#\\graduationproject\\mainproject\\mainproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|f:\\c#\\graduationproject\\mainproject\\mainproject\\models\\studentsmarks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\models\\studentsmarks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|f:\\c#\\graduationproject\\mainproject\\mainproject\\mainproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\mainproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|f:\\c#\\graduationproject\\mainproject\\mainproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|f:\\c#\\graduationproject\\mainproject\\mainproject\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|f:\\c#\\graduationproject\\mainproject\\mainproject\\configuration\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\configuration\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|f:\\c#\\graduationproject\\mainproject\\mainproject\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|f:\\c#\\graduationproject\\mainproject\\mainproject\\models\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\models\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|f:\\c#\\graduationproject\\mainproject\\mainproject\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\models\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|f:\\c#\\graduationproject\\mainproject\\mainproject\\models\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\models\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|f:\\c#\\graduationproject\\mainproject\\mainproject\\models\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\models\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|f:\\c#\\graduationproject\\mainproject\\mainproject\\models\\students\\studentscomments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\models\\students\\studentscomments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|f:\\c#\\graduationproject\\mainproject\\mainproject\\models\\students\\studentsmarks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\models\\students\\studentsmarks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|f:\\c#\\graduationproject\\mainproject\\mainproject\\models\\subjects\\subjectsenrolls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\models\\subjects\\subjectsenrolls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|f:\\c#\\graduationproject\\mainproject\\mainproject\\models\\subjects\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\models\\subjects\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|f:\\c#\\graduationproject\\mainproject\\mainproject\\models\\subjects\\studyphase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\models\\subjects\\studyphase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|f:\\c#\\graduationproject\\mainproject\\mainproject\\models\\subjects\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\models\\subjects\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|f:\\c#\\graduationproject\\mainproject\\mainproject\\models\\subjects\\mutliplechoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\models\\subjects\\mutliplechoices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|f:\\c#\\graduationproject\\mainproject\\mainproject\\models\\subjects\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\models\\subjects\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|f:\\c#\\graduationproject\\mainproject\\mainproject\\models\\subjects\\coursecontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\models\\subjects\\coursecontent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|f:\\c#\\graduationproject\\mainproject\\mainproject\\models\\subjects\\classesschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\models\\subjects\\classesschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|f:\\c#\\graduationproject\\mainproject\\mainproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|f:\\c#\\graduationproject\\mainproject\\mainproject\\controllers\\subjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\controllers\\subjectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|f:\\c#\\graduationproject\\mainproject\\mainproject\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|f:\\c#\\graduationproject\\mainproject\\mainproject\\mainproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{995474BD-CE83-4367-85AF-E2FD66BD40D8}|MainProject\\MainProject.csproj|solutionrelative:mainproject\\mainproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,65 +106,268 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "User.cs",
-              "DocumentMoniker": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\Models\\User.cs",
-              "RelativeDocumentMoniker": "MainProject\\Models\\User.cs",
-              "ToolTip": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\Models\\User.cs",
-              "RelativeToolTip": "MainProject\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "DocumentIndex": 4,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\Models\\Entities\\Teacher.cs",
+              "RelativeDocumentMoniker": "MainProject\\Models\\Entities\\Teacher.cs",
+              "ToolTip": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\Models\\Entities\\Teacher.cs",
+              "RelativeToolTip": "MainProject\\Models\\Entities\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T01:22:41.538Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-22T03:59:15.44Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
+              "Title": "Role.cs",
+              "DocumentMoniker": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\Models\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "MainProject\\Models\\Entities\\Role.cs",
+              "ToolTip": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\Models\\Entities\\Role.cs",
+              "RelativeToolTip": "MainProject\\Models\\Entities\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T03:58:51.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Admin.cs",
-              "DocumentMoniker": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\Models\\Admin.cs",
-              "RelativeDocumentMoniker": "MainProject\\Models\\Admin.cs",
-              "ToolTip": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\Models\\Admin.cs",
-              "RelativeToolTip": "MainProject\\Models\\Admin.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "DocumentMoniker": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\Models\\Entities\\Admin.cs",
+              "RelativeDocumentMoniker": "MainProject\\Models\\Entities\\Admin.cs",
+              "ToolTip": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\Models\\Entities\\Admin.cs",
+              "RelativeToolTip": "MainProject\\Models\\Entities\\Admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-14T03:43:24.942Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\Models\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "MainProject\\Models\\Entities\\Student.cs",
+              "ToolTip": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\Models\\Entities\\Student.cs",
+              "RelativeToolTip": "MainProject\\Models\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T03:04:58.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\Models\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "MainProject\\Models\\Entities\\User.cs",
+              "ToolTip": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\Models\\Entities\\User.cs",
+              "RelativeToolTip": "MainProject\\Models\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T01:22:41.538Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\Configuration\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MainProject\\Configuration\\AppDbContext.cs",
+              "ToolTip": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\Configuration\\AppDbContext.cs",
+              "RelativeToolTip": "MainProject\\Configuration\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T23:07:30.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\appsettings.json",
+              "RelativeDocumentMoniker": "MainProject\\appsettings.json",
+              "ToolTip": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\appsettings.json",
+              "RelativeToolTip": "MainProject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-14T03:32:33.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainProject.http",
+              "DocumentMoniker": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\MainProject.http",
+              "RelativeDocumentMoniker": "MainProject\\MainProject.http",
+              "ToolTip": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\MainProject.http",
+              "RelativeToolTip": "MainProject\\MainProject.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-03-21T23:34:59.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentsComments.cs",
+              "DocumentMoniker": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\Models\\Students\\StudentsComments.cs",
+              "RelativeDocumentMoniker": "MainProject\\Models\\Students\\StudentsComments.cs",
+              "ToolTip": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\Models\\Students\\StudentsComments.cs",
+              "RelativeToolTip": "MainProject\\Models\\Students\\StudentsComments.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T03:04:57.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "StudentsMarks.cs",
-              "DocumentMoniker": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\Models\\StudentsMarks.cs",
-              "RelativeDocumentMoniker": "MainProject\\Models\\StudentsMarks.cs",
-              "ToolTip": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\Models\\StudentsMarks.cs",
-              "RelativeToolTip": "MainProject\\Models\\StudentsMarks.cs",
+              "DocumentMoniker": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\Models\\Students\\StudentsMarks.cs",
+              "RelativeDocumentMoniker": "MainProject\\Models\\Students\\StudentsMarks.cs",
+              "ToolTip": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\Models\\Students\\StudentsMarks.cs",
+              "RelativeToolTip": "MainProject\\Models\\Students\\StudentsMarks.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-14T04:09:12.903Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
+              "Title": "SubjectsEnrolls.cs",
+              "DocumentMoniker": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\Models\\Subjects\\SubjectsEnrolls.cs",
+              "RelativeDocumentMoniker": "MainProject\\Models\\Subjects\\SubjectsEnrolls.cs",
+              "ToolTip": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\Models\\Subjects\\SubjectsEnrolls.cs",
+              "RelativeToolTip": "MainProject\\Models\\Subjects\\SubjectsEnrolls.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T03:04:49.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\Models\\Subjects\\Subject.cs",
+              "RelativeDocumentMoniker": "MainProject\\Models\\Subjects\\Subject.cs",
+              "ToolTip": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\Models\\Subjects\\Subject.cs",
+              "RelativeToolTip": "MainProject\\Models\\Subjects\\Subject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T03:04:44.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudyPhase.cs",
+              "DocumentMoniker": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\Models\\Subjects\\StudyPhase.cs",
+              "RelativeDocumentMoniker": "MainProject\\Models\\Subjects\\StudyPhase.cs",
+              "ToolTip": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\Models\\Subjects\\StudyPhase.cs",
+              "RelativeToolTip": "MainProject\\Models\\Subjects\\StudyPhase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T03:18:30.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Question.cs",
+              "DocumentMoniker": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\Models\\Subjects\\Question.cs",
+              "RelativeDocumentMoniker": "MainProject\\Models\\Subjects\\Question.cs",
+              "ToolTip": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\Models\\Subjects\\Question.cs",
+              "RelativeToolTip": "MainProject\\Models\\Subjects\\Question.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T03:05:00.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MutlipleChoices.cs",
+              "DocumentMoniker": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\Models\\Subjects\\MutlipleChoices.cs",
+              "RelativeDocumentMoniker": "MainProject\\Models\\Subjects\\MutlipleChoices.cs",
+              "ToolTip": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\Models\\Subjects\\MutlipleChoices.cs",
+              "RelativeToolTip": "MainProject\\Models\\Subjects\\MutlipleChoices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T03:05:01.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Level.cs",
+              "DocumentMoniker": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\Models\\Subjects\\Level.cs",
+              "RelativeDocumentMoniker": "MainProject\\Models\\Subjects\\Level.cs",
+              "ToolTip": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\Models\\Subjects\\Level.cs",
+              "RelativeToolTip": "MainProject\\Models\\Subjects\\Level.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T03:20:37.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CourseContent.cs",
+              "DocumentMoniker": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\Models\\Subjects\\CourseContent.cs",
+              "RelativeDocumentMoniker": "MainProject\\Models\\Subjects\\CourseContent.cs",
+              "ToolTip": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\Models\\Subjects\\CourseContent.cs",
+              "RelativeToolTip": "MainProject\\Models\\Subjects\\CourseContent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T03:05:02.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClassesSchedule.cs",
+              "DocumentMoniker": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\Models\\Subjects\\ClassesSchedule.cs",
+              "RelativeDocumentMoniker": "MainProject\\Models\\Subjects\\ClassesSchedule.cs",
+              "ToolTip": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\Models\\Subjects\\ClassesSchedule.cs",
+              "RelativeToolTip": "MainProject\\Models\\Subjects\\ClassesSchedule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T03:05:03.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\Program.cs",
               "RelativeDocumentMoniker": "MainProject\\Program.cs",
               "ToolTip": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\Program.cs",
               "RelativeToolTip": "MainProject\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T23:50:45.56Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-13T23:50:45.56Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\appsettings.json",
-              "RelativeDocumentMoniker": "MainProject\\appsettings.json",
-              "ToolTip": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\appsettings.json",
-              "RelativeToolTip": "MainProject\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-14T03:32:33.062Z"
+              "DocumentIndex": 19,
+              "Title": "SubjectsController.cs",
+              "DocumentMoniker": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\Controllers\\SubjectsController.cs",
+              "RelativeDocumentMoniker": "MainProject\\Controllers\\SubjectsController.cs",
+              "ToolTip": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\Controllers\\SubjectsController.cs",
+              "RelativeToolTip": "MainProject\\Controllers\\SubjectsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T03:02:29.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "MainProject\\Controllers\\StudentController.cs",
+              "ToolTip": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "MainProject\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T03:01:38.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MainProject.csproj",
+              "DocumentMoniker": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\MainProject.csproj",
+              "RelativeDocumentMoniker": "MainProject\\MainProject.csproj",
+              "ToolTip": "F:\\C#\\GraduationProject\\MainProject\\MainProject\\MainProject.csproj",
+              "RelativeToolTip": "MainProject\\MainProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-21T23:07:04.298Z"
             }
           ]
         }

@@ -1,5 +1,6 @@
 
 using MainProject.Models;
+using Microsoft.Extensions.Options;
 
 namespace MainProject
 {
@@ -7,7 +8,6 @@ namespace MainProject
     {
         public static void Main(string[] args)
         {
-           
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
@@ -33,7 +33,7 @@ namespace MainProject
 
             app.MapControllers();
 
-            app.Run();
+            app.Run(); 
         }
     }
 }

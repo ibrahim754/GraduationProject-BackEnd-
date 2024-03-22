@@ -1,22 +1,12 @@
 [
   {
-    "ContainingType": "MainProject.Controllers.WeatherForecastController",
+    "ContainingType": "MainProject.Controllers.SubjectsController",
     "Method": "Get",
-    "RelativePath": "WeatherForecast",
+    "RelativePath": "api/Subjects",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[MainProject.WeatherForecast, MainProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   }
 ]
